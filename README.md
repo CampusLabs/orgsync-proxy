@@ -5,6 +5,6 @@ A simple HTTP(S) proxy.
 # ENVVARS (REQUIRED)
 
 ```
-TARGET=https://orgsync.com
+TARGET=http://www.example.com
 PORT=12345
 ```
